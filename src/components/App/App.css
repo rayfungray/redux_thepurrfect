@@ -1,0 +1,29 @@
+nav{
+    display: flex;
+    background-color: darkslategray;
+    color:white;
+    justify-content: space-between;
+    align-content: center;
+    min-height: 5vh;
+    padding: 20px;
+    padding-top: 50px;
+    font-size: 1.5em;
+  }
+  
+  a{
+    color: #eeeeee;
+    text-decoration: none;
+  }
+  
+  #home, #app{
+    background-color: #eeeeee;
+  }
+  
+  #home{
+    display: flex;
+    justify-content: left;
+    min-height: 50vh;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2em;
+  
+  }
